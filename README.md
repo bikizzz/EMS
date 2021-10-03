@@ -1,2 +1,3 @@
-# C-class-ISP
-Create a network for a C class ISP 
+# EMS
+Create a web page for Event Management System of an organization
+
